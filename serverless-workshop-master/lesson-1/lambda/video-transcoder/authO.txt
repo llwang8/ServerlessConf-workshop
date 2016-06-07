@@ -1,0 +1,7 @@
+Domain: llwang-24hrvideo.auth0.com
+Client ID: icqFBrYyfaLQVTDu86hSRivkRYqCyxUL
+Client Secret: GFNdeVyJ4DHfN03nt4TIiZ8T6afQ2y159LvFkdREfu7dAZdT3w2TnnyEP2dnONMi
+
+
+
+Invoke URL: https://59tvnydbti.execute-api.us-east-1.amazonaws.com/dev
